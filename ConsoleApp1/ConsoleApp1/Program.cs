@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace c0703625
+namespace ConsoleApp1
+
 {
     class Program
     {
