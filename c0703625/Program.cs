@@ -30,7 +30,7 @@ namespace c0703625
         
         Maple.VillageName = "Maple";
                 Maple.previousVillage = null;
-                Maple.nextVillage = Toronto;
+                Maple.nextVillage = Toronto;     
                 Toronto = new Village();
                 Toronto.VillageName = "Toronto";
                 Toronto.previousVillage = Maple;
